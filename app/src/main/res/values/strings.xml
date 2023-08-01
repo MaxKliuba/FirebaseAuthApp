@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FirebaseAuthApp</string>
-    <string name="sing_out_text">Sing out</string>
+    <string name="build_with_firebase_text">Build with Firebase</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="sing_out_text">Sing Out</string>
+    <string name="user_photo_text">User photo</string>
 </resources>
